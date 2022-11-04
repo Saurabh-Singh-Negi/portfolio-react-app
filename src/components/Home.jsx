@@ -3,7 +3,7 @@ import {HiArrowNarrowRight, HiOutLineMail} from "react-icons/hi";
 
 const Home = () => {
     return (
-        <div name='home' className='w-full h-screen bg-[#0a192f] text-black py-100px px-0 md:px-10'>Home
+        <div name='home' className='w-full h-screen bg-[#0a192f] text-black py-100px px-0 md:px-10 lg:px-0'>Home
 
             {/* container */}
             <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
