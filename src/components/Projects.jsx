@@ -17,7 +17,7 @@ const Projects = () => {
                     <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Shopify Clone
                             </span>
@@ -36,7 +36,7 @@ const Projects = () => {
                     <div style={{backgroundImage: `url(${minion})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Minion Language Translator
                             </span>
@@ -54,7 +54,7 @@ const Projects = () => {
                     <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Emoji Identifier
                             </span>
@@ -73,7 +73,7 @@ const Projects = () => {
                     <div style={{backgroundImage: `url(${minion})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Shopify Clone
                             </span>
@@ -91,7 +91,7 @@ const Projects = () => {
                     <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Shopify Clone
                             </span>
@@ -110,7 +110,7 @@ const Projects = () => {
                     <div style={{backgroundImage: `url(${minion})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100'>
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Shopify Clone
                             </span>
