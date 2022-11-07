@@ -1,6 +1,5 @@
 import React from 'react';
-import shopify from '../assets/work/shopify_clone.png';
-import minion from '../assets/work/minion_translate.png';
+import emoji from '../assets/project/emoji_identifier.png';
 
 const Projects = () => {
     return (
@@ -14,7 +13,7 @@ const Projects = () => {
                 {/* container */}
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
                     {/* Grid Item */}
-                    <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -33,7 +32,7 @@ const Projects = () => {
                         </div>
 
                     </div>
-                    <div style={{backgroundImage: `url(${minion})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -51,7 +50,7 @@ const Projects = () => {
                         </div>
                     </div>
                     {/* Grid Item */}
-                    <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -70,7 +69,7 @@ const Projects = () => {
                         </div>
 
                     </div>
-                    <div style={{backgroundImage: `url(${minion})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -88,7 +87,7 @@ const Projects = () => {
                         </div>
                     </div>
                     {/* Grid Item */}
-                    <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -107,7 +106,7 @@ const Projects = () => {
                         </div>
 
                     </div>
-                    <div style={{backgroundImage: `url(${minion})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
