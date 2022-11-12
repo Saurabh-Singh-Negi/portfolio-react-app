@@ -1,5 +1,10 @@
 import React from 'react';
 import emoji from '../assets/project/emoji_identifier.png';
+import netflix from '../assets/project/netflix.png';
+import shopify from '../assets/project/shopify.png';
+import minion from '../assets/project/minions_translator.png';
+import birthday from '../assets/project/lucky_birthday.png';
+import cash from '../assets/project/cash_register.png';
 
 const Projects = () => {
     return (
@@ -13,7 +18,7 @@ const Projects = () => {
                 {/* container */}
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
                     {/* Grid Item */}
-                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${netflix})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -32,7 +37,7 @@ const Projects = () => {
                         </div>
 
                     </div>
-                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -69,7 +74,7 @@ const Projects = () => {
                         </div>
 
                     </div>
-                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${minion})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -87,7 +92,7 @@ const Projects = () => {
                         </div>
                     </div>
                     {/* Grid Item */}
-                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${cash})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
@@ -106,7 +111,7 @@ const Projects = () => {
                         </div>
 
                     </div>
-                    <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${birthday})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
