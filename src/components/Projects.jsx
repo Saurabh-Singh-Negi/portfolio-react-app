@@ -21,10 +21,10 @@ const Projects = () => {
                                 Shopify Clone
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://shopifyclone-saurabh.netlify.app/">
+                                <a href="https://netflix-clone-957cc.web.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
                                 </a>
-                                <a href="https://github.com/Saurabh-Singh-Negi/Shopify-Clone">
+                                <a href="https://github.com/Saurabh-Singh-Negi/Netflix-Clone">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
                                 </a>
                             </div>
@@ -37,13 +37,13 @@ const Projects = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Minion Language Translator
+                                Shopify Landing Page
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://englishtominionspeak.netlify.app/">
+                                <a href="https://shopifyclone-saurabh.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
                                 </a>
-                                <a href="https://github.com/Saurabh-Singh-Negi/neogcamp-banana-speak">
+                                <a href="https://github.com/Saurabh-Singh-Negi/Shopify-Clone">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
                                 </a>
                             </div>
@@ -74,13 +74,13 @@ const Projects = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Shopify Clone
+                                Minion Language Translator
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
                                 </a>
                             </div>
@@ -92,13 +92,13 @@ const Projects = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Shopify Clone
+                                Cash Register Manager
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://regal-dolphin-0d9566.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Saurabh-Singh-Negi/Mark-10-Cash-Register-JS">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
                                 </a>
                             </div>
@@ -111,13 +111,13 @@ const Projects = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Shopify Clone
+                                Is you birthday lucky?
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="https://tranquil-donut-aeb8bf.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/Saurabh-Singh-Negi/Mark11-Is-your-birthday-lucky">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
                                 </a>
                             </div>
