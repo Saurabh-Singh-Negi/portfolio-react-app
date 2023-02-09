@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import { FaBars, FaTimes, FaGithub, FaLinkedinIn } from "react-icons/fa";
 import {HiMail} from 'react-icons/hi';
-import {BsFillPersonLinesFill} from 'react-icons/bs';
+// import {BsFillPersonLinesFill} from 'react-icons/bs';
 import Logo from "../assets/logo1.png";
 import {Link} from 'react-scroll';
 
