@@ -1,10 +1,11 @@
 import React from 'react';
 import emoji from '../assets/project/emoji_identifier.png';
-import netflix from '../assets/project/netflix.png';
+// import netflix from '../assets/project/netflix.png';
 import shopify from '../assets/project/shopify.png';
 import minion from '../assets/project/minions_translator.png';
-import birthday from '../assets/project/lucky_birthday.png';
-import cash from '../assets/project/cash_register.png';
+import wecare from '../assets/project/wecare.png';
+import shoppingCart from '../assets/project/shoppingCart.png';
+import bookfinder from '../assets/project/bookfinder.png';
 
 const Projects = () => {
     return (
@@ -18,24 +19,41 @@ const Projects = () => {
                 {/* container */}
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
                     {/* Grid Item */}
-                    <div style={{backgroundImage: `url(${netflix})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+                    <div style={{backgroundImage: `url(${wecare})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100 text-center'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Netflix Clone
+                                Wecare App
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://netflix-clone-957cc.web.app/">
+                                <a href="https://wetakecare.netlify.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
                                 </a>
-                                <a href="https://github.com/Saurabh-Singh-Negi/Netflix-Clone">
+                                <a href="https://github.com/Saurabh-Singh-Negi/HealthCare-App">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
                                 </a>
                             </div>
 
                         </div>
 
+                    </div>
+                    <div style={{backgroundImage: `url(${shoppingCart})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* Hover Effects */}
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                Redux Shopping Cart
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <a href="https://shopping-store-redux.netlify.app/">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
+                                </a>
+                                <a href="https://github.com/Saurabh-Singh-Negi/Shopping-Cart">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                     <div style={{backgroundImage: `url(${shopify})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
@@ -55,6 +73,25 @@ const Projects = () => {
                         </div>
                     </div>
                     {/* Grid Item */}
+                    <div style={{backgroundImage: `url(${bookfinder})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                        {/* Hover Effects */}
+                        <div className='opacity-0 group-hover:opacity-100 text-center'>
+                            <span className='text-2xl font-bold text-white tracking-wider'>
+                                Bookfinder
+                            </span>
+                            <div className='pt-8 text-center'>
+                                <a href="https://yourbookpedia.netlify.app/">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
+                                </a>
+                                <a href="https://github.com/Saurabh-Singh-Negi/Book-Finder-Application">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
+                                </a>
+                            </div>
+
+                        </div>
+
+                    </div>
                     <div style={{backgroundImage: `url(${emoji})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
                         {/* Hover Effects */}
@@ -86,43 +123,6 @@ const Projects = () => {
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
                                 </a>
                                 <a href="https://github.com/Saurabh-Singh-Negi/neogcamp-banana-speak">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    {/* Grid Item */}
-                    <div style={{backgroundImage: `url(${cash})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100 text-center'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                                Cash Register Manager
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <a href="https://regal-dolphin-0d9566.netlify.app/">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
-                                </a>
-                                <a href="https://github.com/Saurabh-Singh-Negi/Mark-10-Cash-Register-JS">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
-                                </a>
-                            </div>
-
-                        </div>
-
-                    </div>
-                    <div style={{backgroundImage: `url(${birthday})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-
-                        {/* Hover Effects */}
-                        <div className='opacity-0 group-hover:opacity-100 text-center'>
-                            <span className='text-2xl font-bold text-white tracking-wider'>
-                                Is you birthday lucky?
-                            </span>
-                            <div className='pt-8 text-center'>
-                                <a href="https://tranquil-donut-aeb8bf.netlify.app/">
-                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Demo</button>
-                                </a>
-                                <a href="https://github.com/Saurabh-Singh-Negi/Mark11-Is-your-birthday-lucky">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-;g'>Code</button>
                                 </a>
                             </div>
