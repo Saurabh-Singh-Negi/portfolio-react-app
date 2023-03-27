@@ -6,6 +6,7 @@ import TAILWIND from '../assets/tailwind.png';
 import JAVASCRIPT from '../assets/javascript.png';
 import REACT from '../assets/react.png';
 import GITHUB from '../assets/github.png';
+import NODEJS from '../assets/node.png';
 
 const Skills = () => {
     return (
@@ -36,6 +37,10 @@ const Skills = () => {
                     <div className='shadow-md shadow-[#040c16] px-5 py-2 md:px-[4rem] md:py-5 hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={REACT} alt="html icon" />
                         <p className='my-4'>React</p>
+                    </div>
+                    <div className='shadow-md shadow-[#040c16] px-5 py-2 md:px-[4rem] md:py-5 hover:scale-110 duration-500'>
+                        <img className='w-20 mx-auto' src={NODEJS} alt="html icon" />
+                        <p className='my-4'>NodeJS</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] px-5 py-2 md:px-[4rem] md:py-5 hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={GITHUB} alt="html icon" />
